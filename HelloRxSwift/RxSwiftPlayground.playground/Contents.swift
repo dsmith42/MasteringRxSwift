@@ -1,4 +1,3 @@
-import UIKit
 import RxSwift
 
-var greeting = "Hello, playground"
+_ = Observable.from(optional: [1, 2, 3, 4, 5])
